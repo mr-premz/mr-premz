@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mr-premz
 - 👀 I’m interested in Web Application Developement
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on REST APIs
 - 📫 Reach me at premjeetsingh55@gmail.com
 
 <!---
